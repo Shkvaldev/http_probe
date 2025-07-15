@@ -1,6 +1,9 @@
 # http_probe
 > CLI utility for checking the availability of HTTP servers
 
+#### Project home:
+`https://github.com/Shkvaldev/http_probe.git`
+
 #### Features  
 - Multiple Hosts Support (accepts a list of hosts via command-line arguments or from a file)
 - Customizable Request Count (allows specifying the number of requests per host)
